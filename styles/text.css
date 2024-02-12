@@ -1,0 +1,31 @@
+div
+{
+    font-family: Roboto;
+}
+
+.video-info
+{
+    width: 100%;
+    line-height: 20px;
+}
+.video-title
+{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.video-creator
+{
+    margin-top: 12px;
+    color: #606060;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.video-stats
+{
+    
+    color: #606060;
+    font-size: 12px;
+    line-height: 18px;
+}

@@ -1,0 +1,41 @@
+.thumbnail
+{
+    width: 100%;
+    display: block;
+}
+
+.channel-pic
+{
+    width: 36px;
+    border-radius: 18px;
+}
+
+.channel{
+
+    margin-right: 10px;
+    vertical-align: top;
+}
+
+.thumbnail-pic
+{
+    margin-bottom: 6px;
+    position: relative;   
+}
+
+.video-time
+{
+    font-family: Roboto;
+    font-size: 13px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
+    position: absolute;
+    bottom: 8px;
+    right: 4px;
+
+}
